@@ -3,6 +3,7 @@ import Header from '../components/Header'
 import Steps from '../components/Steps'
 import BgSlider from '../components/BgSlider'
 import Upload from '../components/Upload'
+import Footer from '../components/Footer'
 
 
 const Home = () => {
@@ -12,6 +13,7 @@ const Home = () => {
       <Steps/>
       <BgSlider/>
       <Upload/>
+      <Footer/>
     </div>
   )
 }
